@@ -1,4 +1,9 @@
-        Linux kernel release 3.x <http://kernel.org/>
+
+must use https://github.com/LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9/tree/cm-13.0
+
+
+==============================================================================
+Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
 as they tell you what this is all about, explain how to install the
